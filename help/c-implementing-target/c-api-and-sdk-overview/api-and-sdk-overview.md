@@ -79,4 +79,4 @@ Ideally if you are using NodeJS as your backend technology, NodeJS SDK is a natu
 
 **Should I gain any performance improvements by using the NodeJS SDK?**
 
-Unfortunately, we don't have any performance numbers. However, in general, the NodeJS SDK should good performance, thanks to the NodeJS event-driven architecture. Be aware that most of the time is spent on the Target backend. The NodeJS SDK does very little processing. The SDK is basically responsible for packaging a Target request and parsing a Target response. 
+Unfortunately, we don't have any performance numbers. However, in general, the NodeJS SDK should have good performance, thanks to the NodeJS event-driven architecture. Be aware that most of the time is spent on the Target backend. The NodeJS SDK does very little processing. The SDK is basically responsible for packaging a Target request and parsing a Target response. 
